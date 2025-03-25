@@ -1,0 +1,15 @@
+D:\Colleg notes\project\FileManager3\FileManager3\bin\Debug\FileManager3.exe.config
+D:\Colleg notes\project\FileManager3\FileManager3\bin\Debug\FileManager3.exe
+D:\Colleg notes\project\FileManager3\FileManager3\bin\Debug\FileManager3.pdb
+D:\Colleg notes\project\FileManager3\FileManager3\obj\Debug\FileManager3.csproj.AssemblyReference.cache
+D:\Colleg notes\project\FileManager3\FileManager3\obj\Debug\MainWindow.g.cs
+D:\Colleg notes\project\FileManager3\FileManager3\obj\Debug\App.g.cs
+D:\Colleg notes\project\FileManager3\FileManager3\obj\Debug\FileManager3_MarkupCompile.cache
+D:\Colleg notes\project\FileManager3\FileManager3\obj\Debug\FileManager3_MarkupCompile.lref
+D:\Colleg notes\project\FileManager3\FileManager3\obj\Debug\MainWindow.baml
+D:\Colleg notes\project\FileManager3\FileManager3\obj\Debug\FileManager3.g.resources
+D:\Colleg notes\project\FileManager3\FileManager3\obj\Debug\FileManager3.Properties.Resources.resources
+D:\Colleg notes\project\FileManager3\FileManager3\obj\Debug\FileManager3.csproj.GenerateResource.cache
+D:\Colleg notes\project\FileManager3\FileManager3\obj\Debug\FileManager3.csproj.CoreCompileInputs.cache
+D:\Colleg notes\project\FileManager3\FileManager3\obj\Debug\FileManager3.exe
+D:\Colleg notes\project\FileManager3\FileManager3\obj\Debug\FileManager3.pdb
